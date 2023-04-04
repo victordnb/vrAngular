@@ -1,0 +1,27 @@
+#componentePelis{
+    background-color: #e6e6e6;
+    padding: 20px;
+    border-radius: 5px;
+    border: 5px solid;
+    border-color: azure;
+    margin-bottom: 20px;
+
+    width: 50%;
+
+}
+
+/* -Path: Angular\src\app\components\peliculas\peliculas.component.html */
+
+#componentePelis.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
